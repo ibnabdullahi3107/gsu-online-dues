@@ -1,0 +1,80 @@
+reg_number,surname,firstname,gender,date_of_birth,address,state_origin,local_government_area,username,email,faculty_name,department_name
+UG19/SCMT/1074,Adebayo,Tolu,Female,5/14/2000,Lekki,Lagos,Eti-Osa,TolAde,toluadebayo@gmail.com,Science,Mathematics
+UG19/SCPH/1070,Ibrahim,Zainab,Female,7/9/2001,Ungwan Rimi,Kaduna,Kaduna North,ZaiIbr,zainib@gmail.com,Science,Physics
+UG24/ASAC/1010,Okeke,Chinedu,Male,12/1/1999,Awka,Anambra,Awka South,ChiOke,chineduokeke@gmail.com,Art and Social Sciences,Accounting
+UG24/ASIS/1011,Musa,Hassan,Male,3/15/2000,Tudun Wada,Kano,Kano Municipal,HasMus,hassanmusa@gmail.com,Art and Social Sciences,Islamic Studies
+UG24/ASPS/1006,Eze,Amarachi,Female,8/22/2001,Enugu,Enugu,Enugu East,AmaEze,amarachieze@gmail.com,Art and Social Sciences,Economics
+UG24/SCCS/1007,Adeyemi,Funke,Female,10/17/2000,Ibadan,Oyo,Ibadan North,FunAde,funkeadeyemi@gmail.com,Art and Social Sciences,POLITICAL SCIENCE
+UG24/SCCS/1008,Ojo,Femi,Male,11/5/2001,Akure,Ondo,Akure South,FemOjo,femiojo@gmail.com,Science,Computer Science
+UG24/SCMT/1015 ,Lawal,Amina,Female,6/30/2000,Gusau,Zamfara,Gusau,AmiLaw,aminalawal@gmail.com,Science,Mathematics
+UG24/SCPH/1016 ,Nwosu,Ifeanyi,Male,4/8/2001,Aba,Abia,Aba North,IfeNwo,ifeanyinwosu@gmail.com,Science,Physics
+UG24/ASAC/1017,Bala,Fatima,Female,9/25/2000,Minna,Niger,Chanchaga,FatBal,fatimabala@gmail.com,Art and Social Sciences,Accounting
+UG24/ASIS/1018,Aliyu,Mohammed,Male,1/1/2001,Wuse,Abuja,Abuja Municipal,MohAli,mohammedaliyu@gmail.com,Art and Social Sciences,Islamic Studies
+UG24/ASEC/1019,Yusuf,Aisha,Female,3/2/2000,Sabo Gari,Kaduna,Zaria,AisYus,aishayusuf@gmail.com,Art and Social Sciences,Economics
+UG24/ASPS/1020,Chukwu,Emeka,Male,5/12/1999,Umuahia,Abia,Umuahia North,EmeChu,emekachukwu@gmail.com,Art and Social Sciences,POLITICAL SCIENCE
+UG24/SCCS/1021,Bello,Sani,Male,8/20/2001,Zaria,Kaduna,Zaria,SanBel,sanibello@gmail.com,Science,Computer Science
+UG24/SCMT/1022,Okafor,Chioma,Female,10/30/2000,Onitsha,Anambra,Onitsha North,ChiOka,chiomaokafor@gmail.com,Science,Mathematics
+UG24/SCPH/1023,Danladi,Musa,Male,12/25/2001,Maiduguri,Borno,Maiduguri,MusDan,musadanladi@gmail.com,Science,Physics
+UG24/ASAC/1024,Garba,Fatima,Female,2/11/2001,Yola,Adamawa,Yola South,FatGar,fatimagarba@gmail.com,Art and Social Sciences,Accounting
+UG24/ASIS/1025,Usman,Abdullahi,Male,6/5/2000,Sokoto,Sokoto,Sokoto North,AbdUsm,abdullahiusman@gmail.com,Art and Social Sciences,Islamic Studies
+UG24/ASEC/1026,Ikenna,Ngozi,Female,9/14/2000,Owerri,Imo,Owerri North,NgoIke,ngoziikenna@gmail.com,Art and Social Sciences,Economics
+UG24/ASPS/1027,Adewale,Tunde,Male,11/22/1999,Ikeja,Lagos,Ikeja,TunAde,tundeadewale@gmail.com,Art and Social Sciences,POLITICAL SCIENCE
+UG24/SCCS/1028,Mohammed,Halima,Female,3/30/2001,Bauchi,Bauchi,Bauchi,HalMoh,halimamohammed@gmail.com,Science,Computer Science
+UG24/SCMT/1029,Nnamdi,Uche,Male,7/19/2000,Asaba,Delta,Oshimili South,UchNna,uchennamdi@gmail.com,Science,Mathematics
+UG24/SCPH/1030,Suleiman,Ahmed,Male,11/4/2001,Lafia,Nasarawa,Lafia,AhmSul,ahmedsuleiman@gmail.com,Science,Physics
+UG24/ASAC/1031,Ogunleye,Temitope,Female,1/27/2000,Abeokuta,Ogun,Abeokuta South,TemOgu,temitopeogunleye@gmail.com,Art and Social Sciences,Accounting
+UG24/ASIS/1032,Udo,Obinna,Male,5/18/2001,Uyo,Akwa Ibom,Uyo,ObiUdo,obinnaudo@gmail.com,Art and Social Sciences,Islamic Studies
+UG24/ASEC/1033,Bakare,Mojisola,Female,9/28/2000,Sagamu,Ogun,Sagamu,MojBak,mojisolabakare@gmail.com,Art and Social Sciences,Economics
+UG24/ASPS/1034,Obi,Nnamdi,Male,12/16/2000,Nsukka,Enugu,Nsukka,NnaObi,nnamdiobi@gmail.com,Art and Social Sciences,POLITICAL SCIENCE
+UG24/SCCS/1035,Afolabi,Ayodele,Male,3/9/2001,Ado-Ekiti,Ekiti,Ado-Ekiti,AyoAfo,ayodeleafolabi@gmail.com,Science,Computer Science
+UG24/SCMT/1036,Johnson,Tayo,Male,6/22/2000,Surulere,Lagos,Surulere,TayJoh,tayojohnson@gmail.com,Science,Mathematics
+UG24/SCPH/1037,Ekong,Iniobong,Female,10/5/2001,Calabar,Cross River,Calabar South,IniEko,iniobongekong@gmail.com,Science,Physics
+UG24/ASAC/1038,Uche,Nneka,Female,12/1/2000,Owerri,Imo,Owerri West,NneUch,nnekauche@gmail.com,Art and Social Sciences,Accounting
+UG24/ASIS/1039,Adekunle,David,Male,2/17/2001,Oshogbo,Osun,Osogbo,DavAde,davidadekunle@gmail.com,Art and Social Sciences,Islamic Studies
+UG24/ASEC/1040,Eze,Chidimma,Female,5/3/2000,Nsukka,Enugu,Nsukka,ChiEze,chidimmaeze@gmail.com,Art and Social Sciences,Economics
+UG24/ASPS/1035,Abdulkadir,Farouk,Male,8/12/2001,Dutse,Jigawa,Dutse,FarAbd,faroukabdulkadir@gmail.com,Art and Social Sciences,POLITICAL SCIENCE
+UG20/SCCS/1036,Obioma,Chigozie,Male,11/7/2000,Umuahia,Abia,Umuahia South,ChiObi,chigozieobioma@gmail.com,Science,Computer Science
+UG22/SCMT/1036,Adeleke,Kemi,Female,1/26/2001,Ilesa,Osun,Ilesa West,KemAde,kemiadeleke@gmail.com,Science,Mathematics
+UG20/SCPH/1037,Yahaya,Salisu,Male,4/4/2001,Bauchi,Bauchi,Bauchi,SalYah,salisuyahaya@gmail.com,Science,Physics
+UG24/ASAC/1041,Adebayo,Tolu,Female,5/14/2000,Lekki,Lagos,Eti-Osa,john_doe,john_doe@gmail.com,Art and Social Sciences,Accounting
+UG24/ASIS/1042,Ibrahim,Zainab,Female,7/9/2001,Ungwan Rimi,Kaduna,Kaduna North,jane_smith,jane_smith@gmail.com,Art and Social Sciences,Islamic Studies
+UG24/SCBC/1043,Okeke,Chinedu,Male,12/1/1999,Awka,Anambra,Awka South,michael_jones,michael_jones@gmail.com,Science,MICROBIOLOGY
+UG24/ASEN/1044,Musa,Hassan,Male,3/15/2000,Tudun Wada,Kano,Kano Municipal,emily_davis,emily_davis@gmail.com,Art and Social Sciences,English
+UG24/SCCM/1045,Eze,Amarachi,Female,8/22/2001,Enugu,Enugu,Enugu East,william_brown,william_brown@gmail.com,Science,Chemistry
+UG24/ASSO/1046,Adeyemi,Funke,Female,10/17/2000,Ibadan,Oyo,Ibadan North,olivia_johnson,olivia_johnson@gmail.com,Art and Social Sciences,Sociology
+UG24/PSPH/1047,Ojo,Femi,Male,11/5/2001,Akure,Ondo,Akure South,james_wilson,james_wilson@gmail.com,Pharmacitical Science,Pharmacy
+UG24/SCBI/1048,Lawal,Amina,Female,6/30/2000,Gusau,Zamfara,Gusau,sophia_miller,sophia_miller@gmail.com,Science,Biology
+UG24/PSME/1049,Nwosu,Ifeanyi,Male,4/8/2001,Aba,Abia,Aba North,benjamin_moore,benjamin_moore@gmail.com,Pharmacitical Science,Medicine
+UG24/ASBA/1050,Bala,Fatima,Female,9/25/2000,Minna,Niger,Chanchaga,isabella_taylor,isabella_taylor@gmail.com,Art and Social Sciences,Business Admin
+UG24/SCGL/1051,Aliyu,Mohammed,Male,1/1/2001,Wuse,Abuja,Abuja Municipal,lucas_anderson,lucas_anderson@gmail.com,Science,Geology
+UG24/ASHI/1052,Yusuf,Aisha,Female,3/2/2000,Sabo Gari,Kaduna,Zaria,mia_thomas,mia_thomas@gmail.com,Art and Social Sciences,History
+UG24/ASPS/1053,Chukwu,Emeka,Male,5/12/1999,Umuahia,Abia,Umuahia North,elijah_white,elijah_white@gmail.com,Art and Social Sciences,Psychology
+UG24/SCMB/1054,Bello,Sani,Male,8/20/2001,Zaria,Kaduna,Zaria,amelia_lee,amelia_lee@gmail.com,Science,MICROBIOLOGY
+UG24/SCST/1055,Okafor,Chioma,Female,10/30/2000,Onitsha,Anambra,Onitsha North,alexander_harris,alexander_harris@gmail.com,Science,Mathematics
+UG24/PSNU/1056,Danladi,Musa,Male,12/25/2001,Maiduguri,Borno,Maiduguri,ava_clark,ava_clark@gmail.com,Pharmacitical Science,Nursing
+UG24/ASPS/1057,Garba,Fatima,Female,2/11/2001,Yola,Adamawa,Yola South,daniel_rodriguez,daniel_rodriguez@gmail.com,Art and Social Sciences,Political Science
+UG24/SCCS/1058,Usman,Abdullahi,Male,6/5/2000,Sokoto,Sokoto,Sokoto North,charlotte_lewis,charlotte_lewis@gmail.com,Science,Computer Science
+UG24/SCMB/1059,Ikenna,Ngozi,Female,9/14/2000,Owerri,Imo,Owerri North,matthew_walker,matthew_walker@gmail.com,Science,Microbiology
+UG24/SCMB/1060,Adewale,Tunde,Male,11/22/1999,Ikeja,Lagos,Ikeja,harper_hall,harper_hall@gmail.com,Science,MICROBIOLOGY
+UG24/PSNU/1061,Mohammed,Halima,Female,3/30/2001,Bauchi,Bauchi,Bauchi,henry_scott,henry_scott@gmail.com,Pharmacitical Science,Nursing
+UG24/SCCS/1062,Nnamdi,Uche,Male,7/19/2000,Asaba,Delta,Oshimili South,victoria_adams,victoria_adams@gmail.com,Science,Computer Science
+UG24/ASSO/1063,Suleiman,Ahmed,Male,11/4/2001,Lafia,Nasarawa,Lafia,sebastian_king,sebastian_king@gmail.com,Art and Social Sciences,Sociology
+UG24/PSME/1064,Ogunleye,Temitope,Female,1/27/2000,Abeokuta,Ogun,Abeokuta South,grace_thompson,grace_thompson@gmail.com,Pharmacitical Science,Medicine
+UG24/ASAC/1065,Udo,Obinna,Male,5/18/2001,Uyo,Akwa Ibom,Uyo,aiden_martin,aiden_martin@gmail.com,Art and Social Sciences,Accounting
+UG24/ASIS/1066,Bakare,Mojisola,Female,9/28/2000,Sagamu,Ogun,Sagamu,madison_perez,madison_perez@gmail.com,Art and Social Sciences,Islamic Studies
+UG24/SCMB/1067,Obi,Nnamdi,Male,12/16/2000,Nsukka,Enugu,Nsukka,jackson_evans,jackson_evans@gmail.com,Science,MICROBIOLOGY
+UG24/ASEN/1068,Afolabi,Ayodele,Male,3/9/2001,Ado-Ekiti,Ekiti,Ado-Ekiti,chloe_turner,chloe_turner@gmail.com,Art and Social Sciences,English
+UG24/SCCM/1069,Johnson,Tayo,Male,6/22/2000,Surulere,Lagos,Surulere,samuel_wright,samuel_wright@gmail.com,Science,Chemistry
+UG24/ASSO/1070,Ekong,Iniobong,Female,10/5/2001,Calabar,Cross River,Calabar South,lily_edwards,lily_edwards@gmail.com,Art and Social Sciences,Sociology
+UG24/PSPH/1071,Uche,Nneka,Female,12/1/2000,Owerri,Imo,Owerri West,david_collins,david_collins@gmail.com,Pharmacitical Science,Pharmacy
+UG24/SCBI/1072,Adekunle,David,Male,2/17/2001,Oshogbo,Osun,Osogbo,ella_green,ella_green@gmail.com,Science,Biology
+UG24/PSME/1073,Eze,Chidimma,Female,5/3/2000,Nsukka,Enugu,Nsukka,joseph_baker,joseph_baker@gmail.com,Pharmacitical Science,Medicine
+UG24/ASBA/1074,Abdulkadir,Farouk,Male,8/12/2001,Dutse,Jigawa,Dutse,zoe_carter,zoe_carter@gmail.com,Art and Social Sciences,Business Admin
+UG24/SCGL/1075,Obioma,Chigozie,Male,11/7/2000,Umuahia,Abia,Umuahia South,nathan_reed,nathan_reed@gmail.com,Science,Geology
+UG24/ASHI/1076,Adeleke,Kemi,Female,1/26/2001,Ilesa,Osun,Ilesa West,hannah_foster,hannah_foster@gmail.com,Art and Social Sciences,History
+UG24/SCMB/1078,Yahaya,Salisu,Male,4/4/2001,Bauchi,Bauchi,Bauchi,ethan_gonzalez,ethan_gonzalez@gmail.com,Science,MICROBIOLOGY
+UG24/SCMT/1079,Adebayo,Tolu,Female,5/14/2000,Lekki,Lagos,Eti-Osa,aria_rivera,aria_rivera@gmail.com,Science,Mathematics
+UG24/PSNU/1080,Ibrahim,Zainab,Female,7/9/2001,Ungwan Rimi,Kaduna,Kaduna North,noah_bryant,noah_bryant@gmail.com,Pharmacitical Science,Nursing
+UG24/ASPS/1081,Okeke,Chinedu,Male,12/1/1999,Awka,Anambra,Awka South,layla_mitchell,layla_mitchell@gmail.com,Art and Social Sciences,POLITICAL SCIENCE
+UG24/SCCS/1082,Musa,Hassan,Male,3/15/2000,Tudun Wada,Kano,Kano Municipal,HasanMusa,musahassan01@gmail.com,Science,Computer Science
+UG19/SCCS/1082,Eze,Amarachi,Female,8/22/2001,Enugu,Enugu,Enugu East,Exe_Amarachi,exeamarachi@gmail.com,Science,Computer Science
